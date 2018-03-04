@@ -32,10 +32,10 @@
 
 
 ### 网络定义
-* [参见说明](4.net_define.md)
+* [参见说明](1.net_define.md)
 
 ### LeNet 模型
-* [LeNet.md](5.LeNet.md)
+* [LeNet.md](2.LeNet.md)
 
 ### Reference
 
