@@ -35,7 +35,7 @@
 * [参见说明](4.net_define.md)
 
 ### LeNet 模型
-* [LeNet.md](LeNet.md)
+* [LeNet.md](5.LeNet.md)
 
 ### Reference
 
