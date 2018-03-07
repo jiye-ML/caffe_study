@@ -40,5 +40,5 @@
 ### Reference
 
 * [[Caffe]:关于caffe新手入门](http://blog.csdn.net/cham_3/article/details/72141753)
-
 * [深度学习（六）caffe入门学习](http://blog.csdn.net/hjimce/article/details/48933813)
+* [Caffe源码导读](https://ymgd.github.io/codereader/2016/10/20/caffe_sourcecode_analysis/)
