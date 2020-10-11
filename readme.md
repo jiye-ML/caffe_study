@@ -16,11 +16,11 @@
     * caffe 通过 `Blobs`即以四维数组的方式存储和传递数据。`Blobs`提供了一个统一的内存接口，用于批量图像的操作和参数更新
     
 ### 安装
-* 具体参见[ Installment/caffe.md ](https://github.com/jiye-ML/Installment/blob/master/caffe.md)
+* Installment/caffe.md 
 * `caffe` 编译完成后，会生成一个`build`目录,在该目录下有个`tools`，这里有可执行的文件`caffe`
 
 ### 一般步骤
-1. 数据格式处理d
+1. 数据格式处理
 2. 编写网络结构文件 `.prototxt`在`Data`层中引入数据文件
 3. 网络求解文件 'solver.prototxt'用 `net`配置网络结构文件
 4. 训练网络
